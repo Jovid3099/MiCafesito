@@ -19,8 +19,8 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #008374;
-  --color-secondary: #f85a40;
+  --color-primary: #613207;
+  --color-secondary: #FA760E;
 }
 
 /* Smooth scroll behavior */
@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-  color: #00b6a1;
+  color: #613207;
   text-decoration: none;
 }
 
@@ -248,7 +248,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #00796b;
+  background: #713207;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -438,7 +438,7 @@ section {
     font-size: 15px;
     text-transform: none;
     font-weight: 600;
-    color: #006a5d;
+    color: #713207;
   }
 
   .navbar .dropdown ul a i {
@@ -565,8 +565,8 @@ section {
     padding: 10px 0;
     margin: 10px 20px;
     transition: all 0.5s ease-in-out;
-    background-color: #007466;
-    border: 1px solid #006459;
+    background-color: #614207;
+    border: 1px solid #615207;
   }
 
   .navbar .dropdown>.dropdown-active,
